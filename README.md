@@ -1,5 +1,5 @@
-<H3>NAME:  BHUVANESHWAR V </H3>
-<H3>REGISTER NO: 212221240009 </H3>
+<H3>NAME:  Ragul VK </H3>
+<H3>REGISTER NO: 212221240043 </H3>
 <H3>EXPERIMENT NO: 3 </H3>
 <H3>DATE: 27/2/2024 </H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
